@@ -1,4 +1,4 @@
-# WARNING: THIS EXTENSION IS NOT SUPPORTED AND WILL NOT BE RECEIVING FUTURE SUPPORT. USE AT YOUR OWN RISK.
+# WARNING: THIS EXTENSION UNOFFICIAL AND IS NOT SUPPORTED AND WILL NOT BE RECEIVING FUTURE SUPPORT. USE AT YOUR OWN RISK.
 
 The current implementation only allows for printing of a 2 dimensional graph within the statistics. The evolution and has not been tested on anything other than 2 dimensions. Only square input images are being accounted for. 
 
